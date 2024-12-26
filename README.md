@@ -8,3 +8,7 @@ Identified top-performing products and genres, enabling data-driven decisions fo
 Generated detailed reports on customer purchase patterns, contributing to improved marketing strategies.
 Demonstrated proficiency in advanced SQL techniques, including joins, subqueries, and aggregate functions, ensuring efficient data extraction and analysis.
 Enhanced database management and reporting efficiency by designing queries with a focus on optimization and accuracy.
+
+ Databases and Tools :-    MYSQL
+                           EXCEL
+
