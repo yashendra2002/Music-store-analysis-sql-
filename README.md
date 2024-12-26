@@ -1,3 +1,4 @@
+# SQL project to analyze online music store data
 
 Objective:
 Developed and executed SQL queries to analyze a music store database, providing actionable insights into sales trends, customer behavior, and product performance.
