@@ -9,6 +9,6 @@ Generated detailed reports on customer purchase patterns, contributing to improv
 Demonstrated proficiency in advanced SQL techniques, including joins, subqueries, and aggregate functions, ensuring efficient data extraction and analysis.
 Enhanced database management and reporting efficiency by designing queries with a focus on optimization and accuracy.
 
- Databases and Tools :-    MYSQL
+ Databases and Tools :-    MYSQL , 
                            EXCEL
 
